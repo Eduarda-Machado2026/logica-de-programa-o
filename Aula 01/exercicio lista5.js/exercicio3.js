@@ -1,0 +1,1 @@
+const tentativas=["senha 1","senha2",senha]

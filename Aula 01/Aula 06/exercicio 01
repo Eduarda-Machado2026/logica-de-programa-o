@@ -1,0 +1,22 @@
+switc(opcao)
+{
+    case"1":
+    alert("ação escolhida: cadastrar");
+    case"2":
+    break;
+    alert("Ação escolhida: consultar");
+    break;
+    case"3":
+    alert("Ação escolhida: atualizar");
+    break;
+    case"4":
+    alert("Ação escolhida: excluir");
+    break;
+    case"5":
+    alert("Ação escolhida: sair, ate logo");
+    break;
+    default:
+        alert("Opção inválida: por favor, escolha uma opção válida.");
+        break;
+
+}
